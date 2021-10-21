@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment1.params=speed\ engineSize\ driverName\ vehicleType
+comment1.target=Vehicle(int,\ int,\ java.lang.String,\ java.lang.String)
+comment10.params=litres
+comment10.target=void\ setFuel(int)
+comment11.params=
+comment11.target=void\ emptyFuel()
+comment12.params=
+comment12.target=java.lang.String\ inRace()
+comment2.params=
+comment2.target=java.lang.String\ getType()
+comment3.params=
+comment3.target=int\ getSpeed()
+comment4.params=
+comment4.target=java.lang.String\ getDriverName()
+comment5.params=
+comment5.target=int\ getEngineSize()
+comment6.params=engineSize
+comment6.target=void\ setEngineSize(int)
+comment7.params=v
+comment7.target=java.lang.Boolean\ overtake(Vehicle)
+comment8.params=
+comment8.target=double\ getFuel()
+comment9.params=
+comment9.target=void\ setFuel()
+numComments=13

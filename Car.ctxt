@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Car
+comment1.params=driverName
+comment1.target=Car(java.lang.String)
+comment2.params=
+comment2.target=int\ getDamaged()
+comment3.params=
+comment3.target=int\ getMaxDamaged()
+comment4.params=
+comment4.target=int\ getSpeed()
+comment5.params=
+comment5.target=void\ setRepair()
+comment6.params=v
+comment6.target=java.lang.Boolean\ overtake(Vehicle)
+comment7.params=
+comment7.target=java.lang.String\ inRace()
+numComments=8

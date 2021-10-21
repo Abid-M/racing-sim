@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Racing
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=Vehicle\ createUser()
+comment3.params=
+comment3.target=Vehicle[]\ racers()
+comment4.params=
+comment4.target=Pitstop\ createPitstop()
+comment5.params=userPlayer\ botRacers
+comment5.target=void\ beginRace(Vehicle,\ Vehicle[])
+numComments=6

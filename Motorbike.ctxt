@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Motorbike
+comment1.params=driverName
+comment1.target=Motorbike(java.lang.String)
+comment2.params=
+comment2.target=int\ getAcceleration()
+comment3.params=
+comment3.target=int\ getSpeed()
+comment4.params=
+comment4.target=java.lang.String\ inRace()
+numComments=5
